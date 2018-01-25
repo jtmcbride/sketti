@@ -1,0 +1,32 @@
+[
+  {
+    "model": 
+  }
+  {
+    "model": "events.Group",
+    "pk": 1,
+    "fields": {
+      "name": "joe",
+      "private": true,
+      "creator_id": 1
+    }
+  }
+  {
+    "model": "events.Event",
+    "pk": 1,
+    "fields": {
+      "title": "John",
+      "start_time": "2017-10-12T23:35:31.91",
+      ""
+    }
+  },
+  {
+    "model": "events.Event",
+    "pk": 2,
+    "fields": {
+      "title": "Paul",
+      "start_time": "2017-10-12T23:35:31.91",
+
+    }
+  }
+]
